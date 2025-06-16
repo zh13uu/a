@@ -357,38 +357,6 @@ truffle migrate --network development
 
 ---
 
-## 📊 **Project Stats & Team Contributions**
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Team+Collaboration+Stats;5+Developers+Working+Together;Building+Amazing+Features!" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-repo-name&show_icons=true&theme=radical&hide_border=true" alt="Repository Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-repo-name&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
-</div>
-
-### 👨‍💻 **Team Development Stats**
-
-<div align="center">
-
-| 📈 **Metric** | 📊 **Value** | 🎯 **Status** |
-|--------------|-------------|-------------|
-| **Team Members** | 5 Developers | ✅ Active |
-| **Total Commits** | 500+ commits | 🚀 Growing |
-| **Code Lines** | 10,000+ lines | 💪 Robust |
-| **Features** | 15+ features | ⭐ Complete |
-| **Test Coverage** | 85%+ | 🧪 Tested |
-| **Documentation** | 95%+ | 📚 Comprehensive |
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400">
-</div>
-
----
-
 ## 🤝 **Contributing**
 
 <div align="center">
@@ -427,24 +395,6 @@ This project was collaboratively built by our team of 5 developers, each bringin
 
 <div align="center">
   <sub>Our team of 5 passionate developers who made this project possible! 🚀</sub>
-</div>
-
----
-
-## 📄 **License**
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
-</div>
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-<div align="center">
-
-```
-MIT License - Feel free to use, modify, and distribute! 🎉
-```
-
 </div>
 
 ---
