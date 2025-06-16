@@ -349,7 +349,7 @@ npm start
     - Create new supplier accounts  
 
 - Experience the **supplier dashboard**:
-  👉 Please register a supplier account at [http://localhost:3000/login](http://localhost:3000/login)  
+  👉 Please login a supplier account at [http://localhost:3000/login](http://localhost:3000/login)  
   👉 Once logged in, you will be redirected to the **Dashboard**, where you can:
   * Add new products  
   * Update product status and quality
@@ -573,28 +573,11 @@ Special thanks to all the amazing technologies, communities, and our team collab
 - 📋 **Trello/Notion** for project management
 - ☕ **Coffee & Late nights** that powered our coding sessions
 
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00D8FF&center=true&vCenter=true&width=800&lines=Thank+you+for+checking+out+FoodTrace!;Star+⭐+if+you+found+this+helpful!;Let's+make+food+safer+together! 🥗" alt="Typing SVG" />
-</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
----
-
-<div align="center">
-
-### 📞 **Connect With Us**
-
-[![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://your-website.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-
-</div>
 
 <div align="center">
   <sub>Built with ❤️ by the FoodTrace team</sub>
