@@ -467,7 +467,7 @@ Special thanks to all the amazing technologies, communities, and our team collab
 <table align="center" width="100%">
 <tr>
 <td align="center" width="33%">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="80"/>
+  <img src="https://ptit.edu.vn/wp-content/uploads/2024/08/logo-PTIT-826x1024.jpg" width="80"/>
   <br>
   <strong>🏫 ACADEMIC INSTITUTION</strong>
   <br>
@@ -501,7 +501,7 @@ Special thanks to all the amazing technologies, communities, and our team collab
   <br>
   <strong>📚 COURSE FOUNDATION</strong>
   <br>
-  <sub><strong>Introduction to Software Engineering</strong></sub>
+  <sub><strong>INTRODUCTION TO SOFTWARE ENGINEERING (SWE)</strong></sub>
   <br>
   <sub><em>Comprehensive Academic Program</em></sub>
   <br><br>
