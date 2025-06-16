@@ -670,3 +670,99 @@ This project was collaboratively built by our team of 5 developers, each bringin
 > #### 🗣️ Multi-language Support
 > Provide comprehensive localization for users across different regions worldwide, making FoodTrace accessible to global markets.
 
+## 🎯 **Team Roles & Responsibilities**
+
+<div align="center">
+
+| 👨‍💻 **Role** | 🛠️ **Responsibilities** | 🚀 **Technologies** |
+|-------------|------------------------|-------------------|
+| **Project Lead** | Architecture, Coordination, Full-Stack Development | Next.js, React, Node.js, Project Management |
+| **Blockchain Dev** | Smart Contracts, Web3 Integration, DApp Logic | Solidity, Truffle, Hardhat, Ethereum |
+| **Frontend Specialist** | UI/UX Design, Component Development, Responsive Design | React, TypeScript, Material-UI, CSS |
+| **Backend Engineer** | API Development, Database Design, Server Logic | Node.js, Express, MongoDB, RESTful APIs |
+| **Security & DevOps** | Authentication, Testing, CI/CD, Deployment | JWT, Testing Frameworks, Docker, AWS |
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99c676e5e62d.gif" width="300">
+</div>
+
+---
+
+# 🙏 Acknowledgments
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+</div>
+
+<div align="center">
+  <em>Special thanks to all the amazing technologies, communities, and our team collaboration that made this project possible</em>
+</div>
+
+<br>
+
+## 🎓 Educational Support
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=Proudly+Developed+at+PTIT+Ho+Chi+Minh;Under+Expert+Academic+Guidance;Software+Engineering+Excellence!" alt="Educational Typing SVG" />
+</div>
+
+<br>
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="300">
+
+### 🏫 Academic Institution
+<img src="https://ptit.edu.vn/wp-content/uploads/2024/08/logo-PTIT-826x1024.jpg" width="100" height="100" style="border-radius: 10px;"/>
+
+**Posts and Telecommunications Institute of Technology**  
+*Ho Chi Minh City Campus*
+
+🎯 Exceptional academic resources  
+🚀 Innovation in technology education  
+📚 World-class learning environment
+
+</td>
+<td align="center" width="300">
+
+### 👨‍🏫 Faculty Mentor
+<img src="https://static.vecteezy.com/system/resources/previews/004/610/354/non_2x/simple-minimalist-pen-graduation-hat-for-education-school-university-logo-design-vector.jpg" width="100" height="100" style="border-radius: 10px;"/>
+
+**Mr. Chau Van Van, MSc**  
+*Project Supervisor & Technical Advisor*
+
+🎓 Exceptional mentorship  
+💡 Technical guidance & expertise  
+🛠️ Modern software development practices
+
+</td>
+<td align="center" width="300">
+
+### 📚 Course Foundation
+<img src="https://logo.com/image-cdn/images/kts928pd/production/e6c16c6fdc213eae670cae97c487582ad720f85e-351x351.png?w=1080&q=72&fm=webp" width="100" height="100" style="border-radius: 10px;"/>
+
+**Introduction to Software Engineering**  
+*Comprehensive Academic Program*
+
+📖 Comprehensive curriculum  
+🔬 Hands-on learning experiences  
+⚙️ Software engineering principles
+
+</td>
+</tr>
+</table>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🎓_PTIT_Ho_Chi_Minh-Educational_Excellence-4CAF50?style=for-the-badge&logoColor=white" alt="PTIT Badge"/>
+  <img src="https://img.shields.io/badge/👨‍🏫_Mr._Chau_Van_Van-Faculty_Mentor-2196F3?style=for-the-badge&logoColor=white" alt="Mentor Badge"/>
+  <img src="https://img.shields.io/badge/📚_Software_Engineering-Academic_Foundation-FF9800?style=for-the-badge&logoColor=white" alt="Course Badge"/>
+</div>
+
+---
+
