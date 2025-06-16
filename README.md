@@ -75,7 +75,6 @@
 </div>
 
 ## ✨ **REVOLUTIONARY FEATURES**
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
 </div>
@@ -85,7 +84,6 @@
 <td width="33%" align="center">
 
 ### 🔍 **REAL-TIME TRACEABILITY**
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80"/>
 
 - ⚡ Track products through entire supply chain
 - 📍 Live location and status updates  
@@ -96,7 +94,6 @@
 <td width="33%" align="center">
 
 ### 🔐 **BLOCKCHAIN SECURITY**
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80"/>
 
 - 🛡️ Immutable transaction records
 - 🤖 Smart contract automation
@@ -107,7 +104,6 @@
 <td width="33%" align="center">
 
 ### 📱 **QR CODE INTEGRATION**
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"/>
 
 - 📷 Mobile-friendly scanning
 - ⚡ Quick product information access
@@ -127,7 +123,6 @@
 <td width="33%" align="center">
 
 ### 📊 **ADVANCED ANALYTICS**
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="80"/>
 
 - 📈 Comprehensive dashboards
 - 📋 Real-time reporting system
@@ -138,7 +133,6 @@
 <td width="33%" align="center">
 
 ### 🌐 **WEB3 INTEGRATION**
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7c2812.gif" width="80"/>
 
 - 💰 Secure cryptocurrency transactions
 - 🦊 Wallet connectivity (MetaMask)
@@ -149,7 +143,6 @@
 <td width="33%" align="center">
 
 ### 📱 **RESPONSIVE DESIGN**
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="80"/>
 
 - 📱 Cross-platform compatibility
 - 🎨 Modern UI/UX design
@@ -322,26 +315,20 @@ graph TB
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="25%">
+      <td align="center" width="33%">
         <img src="https://skillicons.dev/icons?i=solidity" width="50"/>
         <br><strong>Solidity</strong>
         <br><sub>📜 Smart Contracts</sub>
         <br><sub>⚡ Gas Optimized</sub>
       </td>
-      <td align="center" width="25%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7c2812.gif" width="50"/>
+      <td align="center" width="33%">
+        <img src="https://archive.trufflesuite.com/assets/logo.png" width="50"/>
         <br><strong>Truffle</strong>
         <br><sub>🛠️ Development Suite</sub>
         <br><sub>📋 Testing Framework</sub>
       </td>
-      <td align="center" width="25%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50"/>
-        <br><strong>Hardhat</strong>
-        <br><sub>🧪 Testing Environment</sub>
-        <br><sub>🔍 Debugging Tools</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://skillicons.dev/icons?i=ethereum" width="50"/>
+      <td align="center" width="33%">
+        <img src="https://rejolut.com/wp-content/uploads/2022/02/ethereum-1.jpeg" width="50"/>
         <br><strong>Ethereum</strong>
         <br><sub>⛓️ Blockchain Network</sub>
         <br><sub>🌐 Decentralized</sub>
@@ -508,7 +495,7 @@ npm start
   <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=0,6,12,18,24&height=100&section=divider&text=👥%20MEET%20THE%20TEAM&fontSize=25&fontColor=fff" />
 </div>
 
-## 👥 **MEET OUR ELITE TEAM**
+## 👥 **MEET OUR TEAM**
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=24&duration=2500&pause=1000&color=E91E63&center=true&vCenter=true&width=800&lines=🌟+MEET+OUR+AMAZING+TEAM!;👨‍💻+5+PASSIONATE+DEVELOPERS;🚀+BUILDING+THE+FUTURE+TOGETHER!;💡+COLLABORATIVE+EXCELLENCE!" alt="Team Header" />
 </div>
