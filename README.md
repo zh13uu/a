@@ -370,16 +370,18 @@ This project was collaboratively built by our team of 5 developers, each bringin
   <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99c676e5e62d.gif" width="200">
 </div>
 
-<table align="center">
+<table align="center" width="900px">
 <tr>
 <td align="center" width="20%">
   <img src="https://avatars.githubusercontent.com/u/127707514?v=4" width="80"/>
   <br>
   <strong>Team Member 1</strong>
   <br>
-  <sub>🚀 Project Lead & Full-Stack</sub>
+  <sub>🎨 Frontend Specialist</sub>
   <br>
-  <sub>Next.js • React • Node.js</sub>
+  <sub>React • TypeScript • UI/UX</sub>
+  <br>
+  <sub>Testing • Deployment</sub>
   <br>
   <a href="https://github.com/member1">GitHub</a>
 </td>
@@ -390,7 +392,9 @@ This project was collaboratively built by our team of 5 developers, each bringin
   <br>
   <sub>⛓️ Blockchain Developer</sub>
   <br>
-  <sub>Solidity • Web3 • Smart Contracts</sub>
+  <sub>Solidity • Smart Contracts</sub>
+  <br>
+  <sub>Testing • Deployment</sub>
   <br>
   <a href="https://github.com/member2">GitHub</a>
 </td>
@@ -399,9 +403,11 @@ This project was collaboratively built by our team of 5 developers, each bringin
   <br>
   <strong>Team Member 3</strong>
   <br>
-  <sub>🎨 Frontend Specialist</sub>
+  <sub>🔧 Backend Engineer</sub>
   <br>
-  <sub>React • TypeScript • UI/UX</sub>
+  <sub>Node.js • MongoDB • APIs</sub>
+  <br>
+  <sub>Testing • Deployment</sub>
   <br>
   <a href="https://github.com/member3">GitHub</a>
 </td>
@@ -410,9 +416,11 @@ This project was collaboratively built by our team of 5 developers, each bringin
   <br>
   <strong>Team Member 4</strong>
   <br>
-  <sub>🔧 Backend Engineer</sub>
+  <sub>⛓️ Blockchain Developer</sub>
   <br>
-  <sub>Node.js • MongoDB • APIs</sub>
+  <sub>Solidity • Smart Contracts</sub>
+  <br>
+  <sub>Testing • Deployment</sub>
   <br>
   <a href="https://github.com/member4">GitHub</a>
 </td>
@@ -421,9 +429,11 @@ This project was collaboratively built by our team of 5 developers, each bringin
   <br>
   <strong>Team Member 5</strong>
   <br>
-  <sub>🔐 Security & DevOps</sub>
+  <sub>🔧 Backend Engineer</sub>
   <br>
-  <sub>JWT • Testing • Deployment</sub>
+  <sub>Node.js • MongoDB • APIs</sub>
+  <br>
+  <sub>Testing • Deployment</sub>
   <br>
   <a href="https://github.com/member5">GitHub</a>
 </td>
