@@ -314,19 +314,45 @@ npm install
 </div>
 
 ```bash
-# 🚀 Start Frontend (Terminal 1)
-cd frontend
-npm start
+# Create MongoDB environment by using Docker
+docker pull mongo:latest
+docker run -d -p 27017:27017 --name foodtrace mongo:latest
+```
+
+```bash
+# ⛓️ Deploy Smart Contracts (Terminal 1)
+# open ganache and get private_key
+ => cd blockchain
+ => python deploy.py (add private_key)
+ => python app.py
 
 # 🔥 Start Backend (Terminal 2)
 cd backend
 npm start
 
-# ⛓️ Deploy Smart Contracts (Terminal 3)
-cd blockchain
-python deploy.py
-python app.py
+# 🚀 Start Frontend (Terminal 3)
+cd frontend
+npm start
 ```
+
+#### Using
+
+- Visit the homepage: [http://localhost:3000](http://localhost:3000)  
+  👉 This page allows users to **scan QR codes** via camera or **upload QR images**.
+
+- Access the admin dashboard at: [http://localhost:3000/admin](http://localhost:3000/admin)  
+  👉 Reserved for **admin accounts** with the following credentials:
+  * **Email:** `admin@gmail.com`  
+  * **Password:** `admin123`
+  * Features available:
+    - Manage supplier accounts  
+    - Create new supplier accounts  
+
+- Experience the **supplier dashboard**:
+  👉 Please register a supplier account at [http://localhost:3000/login](http://localhost:3000/login)  
+  👉 Once logged in, you will be redirected to the **Dashboard**, where you can:
+  * Add new products  
+  * Update product status and quality
 
 ---
 
