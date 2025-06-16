@@ -459,9 +459,66 @@ This project was collaboratively built by our team of 5 developers, each bringin
 Special thanks to all the amazing technologies, communities, and our team collaboration that made this project possible:
 
 ### 🎓 **Educational Support**
-- 🏫 **Our University/Institution** for providing the learning environment
-- 👨‍🏫 **Our Professor/Instructor** for guidance and mentorship
-- 📚 **Course Materials** that helped shape our understanding
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4CAF50&center=true&vCenter=true&width=700&lines=Proudly+Developed+at+PTIT+Ho+Chi+Minh;Under+Expert+Academic+Guidance;Software+Engineering+Excellence!" alt="Educational Typing SVG" />
+</div>
+
+<table align="center" width="100%">
+<tr>
+<td align="center" width="33%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="80"/>
+  <br>
+  <strong>🏫 ACADEMIC INSTITUTION</strong>
+  <br>
+  <sub><strong>Posts and Telecommunications Institute of Technology</strong></sub>
+  <br>
+  <sub><strong>Ho Chi Minh City Campus</strong></sub>
+  <br><br>
+  <sub>🎯 Exceptional academic resources</sub>
+  <br>
+  <sub>🏢 State-of-the-art facilities</sub>
+  <br>
+  <sub>🚀 Innovation in technology education</sub>
+</td>
+<td align="center" width="33%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80"/>
+  <br>
+  <strong>👨‍🏫 FACULTY MENTOR</strong>
+  <br>
+  <sub><strong>Dr. Chau Van Van</strong></sub>
+  <br>
+  <sub><em>Project Supervisor & Technical Advisor</em></sub>
+  <br><br>
+  <sub>🎓 Exceptional mentorship</sub>
+  <br>
+  <sub>💡 Technical guidance & expertise</sub>
+  <br>
+  <sub>🛠️ Modern software development practices</sub>
+</td>
+<td align="center" width="33%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="80"/>
+  <br>
+  <strong>📚 COURSE FOUNDATION</strong>
+  <br>
+  <sub><strong>Introduction to Software Engineering</strong></sub>
+  <br>
+  <sub><em>Comprehensive Academic Program</em></sub>
+  <br><br>
+  <sub>📖 Comprehensive curriculum</sub>
+  <br>
+  <sub>🔬 Hands-on learning experiences</sub>
+  <br>
+  <sub>⚙️ Software engineering principles</sub>
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🎓_PTIT_Ho_Chi_Minh-Educational_Excellence-4CAF50?style=for-the-badge&logoColor=white" alt="PTIT Badge"/>
+  <img src="https://img.shields.io/badge/👨‍🏫_Dr._Chau_Van_Van-Faculty_Mentor-2196F3?style=for-the-badge&logoColor=white" alt="Mentor Badge"/>
+  <img src="https://img.shields.io/badge/📚_Software_Engineering-Academic_Foundation-FF9800?style=for-the-badge&logoColor=white" alt="Course Badge"/>
+</div>
 
 ### 🌟 **Technology Communities**
 - ⚡ **Vercel Team** for Next.js framework
