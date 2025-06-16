@@ -509,15 +509,12 @@ npm start
 </div>
 
 ## 👥 **MEET OUR ELITE TEAM**
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=24&duration=2500&pause=1000&color=E91E63&center=true&vCenter=true&width=800&lines=🌟+MEET+OUR+AMAZING+TEAM!;👨‍💻+5+PASSIONATE+DEVELOPERS;🚀+BUILDING+THE+FUTURE+TOGETHER!;💡+COLLABORATIVE+EXCELLENCE!" alt="Team Header" />
 </div>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99c676e5e62d.gif" width="300">
 </div>
-
 <table align="center" width="100%" style="margin: 20px 0;">
 <tr>
 <td align="center" width="20%">
@@ -549,25 +546,46 @@ npm start
   </a>
 </td>
 <td align="center" width="20%">
-  <img src="https://avatars.githubusercontent.com/u/167009163?v=4" width="100" style="border-radius: 50%; border: 3px solid #47A248;"/>
+  <img src="https://avatars.githubusercontent.com/u/167009163?v=4" width="100" style="border-radius: 50%; border: 3px solid #68A063;"/>
   <br><br>
-  <img src="https://img.shields.io/badge/zh13u-Backend_Engineer-47A248?style=for-the-badge&logo=node.js&logoColor=white" alt="zh13u"/>
+  <img src="https://img.shields.io/badge/zh13u-Backend_Engineer-68A063?style=for-the-badge&logo=node.js&logoColor=white" alt="zh13u"/>
   <br><br>
-  <img src="https://img.shields.io/badge/Node.js-Expert-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Node.js-Expert-68A063?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/MongoDB-Expert-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <br>
-  <img src="https://img.shields.io/badge/APIs-Architect-FF6B35?style=flat&logo=postman&logoColor=white" alt="APIs"/>
+  <img src="https://img.shields.io/badge/APIs-Developer-FF6B35?style=flat&logo=postman&logoColor=white" alt="APIs"/>
   <br><br>
   <a href="https://github.com/zh13u">
     <img src="https://img.shields.io/badge/GitHub-Profile-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </td>
 <td align="center" width="20%">
-  <img src="https://avatars.githubusercontent.com/u/199244596?v=4" width="100" style="border-radius: 50%; border: 3px solid #9C27B0;"/>
+  <img src="https://avatars.githubusercontent.com/u/199244596?v=4" width="100" style="border-radius: 50%; border: 3px solid #627EEA;"/>
   <br><br>
-  <img src="https://img.shields.io/badge/stepToBecomeGigachad-Blockchain_Dev-9C27B0?style=for-the-badge&logo=ethereum&logoColor=white" alt="stepToBecomeGigachad"/>
+  <img src="https://img.shields.io/badge/stepToBecomeGigachad-Blockchain_Developer-627EEA?style=for-the-badge&logo=ethereum&logoColor=white" alt="stepToBecomeGigachad"/>
   <br><br>
   <img src="https://img.shields.io/badge/Solidity-Expert-363636?style=flat&logo=solidity&logoColor=white" alt="Solidity"/>
-  <img src="https://img.shields.io/badge/DeFi-Developer-627EEA?style=flat&logo=ethereum&logoColor=white" alt="DeFi"/>
+  <img src="https://img.shields.io/badge/Smart_Contracts-Expert-627EEA?style=flat&logo=ethereum&logoColor=white" alt="Smart Contracts"/>
   <br>
-  <img src="https://img.shields.io/badge/Testing-Expert-FF6B35?style=flat&logo=jest&logoColor=white" alt="Testing"/>
+  <img src="https://img.shields.io/badge/DeFi-Developer-8B5CF6?style=flat&logo=ethereum&logoColor=white" alt="DeFi"/>
+  <br><br>
+  <a href="https://github.com/stepToBecomeGigachad">
+    <img src="https://img.shields.io/badge/GitHub-Profile-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</td>
+<td align="center" width="20%">
+  <img src="https://avatars.githubusercontent.com/u/167999420?v=4" width="100" style="border-radius: 50%; border: 3px solid #68A063;"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/Crabs536-Backend_Engineer-68A063?style=for-the-badge&logo=node.js&logoColor=white" alt="Crabs536"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/Node.js-Expert-68A063?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-Expert-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <br>
+  <img src="https://img.shields.io/badge/Database-Architect-FF5722?style=flat&logo=postgresql&logoColor=white" alt="Database"/>
+  <br><br>
+  <a href="https://github.com/Crabs536">
+    <img src="https://img.shields.io/badge/GitHub-Profile-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</td>
+</tr>
+</table>
