@@ -486,7 +486,7 @@ Special thanks to all the amazing technologies, communities, and our team collab
   <br>
   <strong>👨‍🏫 FACULTY MENTOR</strong>
   <br>
-  <sub><strong>Dr. Chau Van Van</strong></sub>
+  <sub><strong>Mr. Chau Van Van, MSc</strong></sub>
   <br>
   <sub><em>Project Supervisor & Technical Advisor</em></sub>
   <br><br>
