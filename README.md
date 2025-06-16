@@ -19,7 +19,7 @@
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,solidity,nodejs,express,mongodb,ethereum,docker,aws&perline=10" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,solidity,nodejs,express,mongodb,docker&perline=10" />
 </p>
 
 <div align="center">
@@ -495,24 +495,30 @@ npm start
   <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=0,6,12,18,24&height=100&section=divider&text=👥%20MEET%20THE%20TEAM&fontSize=25&fontColor=fff" />
 </div>
 
-## 👥 **MEET OUR TEAM**
+---
+
+# 👥 MEET OUR TEAM
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=24&duration=2500&pause=1000&color=E91E63&center=true&vCenter=true&width=800&lines=🌟+MEET+OUR+AMAZING+TEAM!;👨‍💻+5+PASSIONATE+DEVELOPERS;🚀+BUILDING+THE+FUTURE+TOGETHER!;💡+COLLABORATIVE+EXCELLENCE!" alt="Team Header" />
 </div>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99c676e5e62d.gif" width="300">
 </div>
-<table align="center" width="100%" style="margin: 20px 0;">
+
+<div align="center">
+<table>
 <tr>
 <td align="center" width="20%">
   <img src="https://avatars.githubusercontent.com/u/127707514?v=4" width="100" style="border-radius: 50%; border: 3px solid #61DAFB;"/>
   <br><br>
-  <img src="https://img.shields.io/badge/kuveee-Frontend_Specialist-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="kuveee"/>
+  <img src="https://img.shields.io/badge/kuveee-Frontend_Developer-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="kuveee"/>
   <br><br>
-  <img src="https://img.shields.io/badge/React-Expert-61DAFB?style=flat&logo=react&logoColor=white" alt="React"/>
-  <img src="https://img.shields.io/badge/TypeScript-Expert-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-3178C6?style=flat&logo=react&logoColor=white" alt="React"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
   <br>
-  <img src="https://img.shields.io/badge/UI%2FUX-Designer-FF6B35?style=flat&logo=figma&logoColor=white" alt="UI/UX"/>
+  <img src="https://img.shields.io/badge/UI%2FUX-FF6B35?style=flat&logo=figma&logoColor=white" alt="UI/UX"/>
   <br><br>
   <a href="https://github.com/kuveee">
     <img src="https://img.shields.io/badge/GitHub-Profile-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -523,10 +529,10 @@ npm start
   <br><br>
   <img src="https://img.shields.io/badge/NTK1100-Blockchain_Developer-627EEA?style=for-the-badge&logo=ethereum&logoColor=white" alt="NTK1100"/>
   <br><br>
-  <img src="https://img.shields.io/badge/Solidity-Expert-363636?style=flat&logo=solidity&logoColor=white" alt="Solidity"/>
-  <img src="https://img.shields.io/badge/Smart_Contracts-Expert-627EEA?style=flat&logo=ethereum&logoColor=white" alt="Smart Contracts"/>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white" alt="Solidity"/>
+  <img src="https://img.shields.io/badge/Smart_Contracts-627EEA?style=flat&logo=ethereum&logoColor=white" alt="Smart Contracts"/>
   <br>
-  <img src="https://img.shields.io/badge/Web3-Developer-F16822?style=flat&logo=web3.js&logoColor=white" alt="Web3"/>
+  <img src="https://img.shields.io/badge/Web3-F16822?style=flat&logo=web3.js&logoColor=white" alt="Web3"/>
   <br><br>
   <a href="https://github.com/NTK1100">
     <img src="https://img.shields.io/badge/GitHub-Profile-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -535,12 +541,12 @@ npm start
 <td align="center" width="20%">
   <img src="https://avatars.githubusercontent.com/u/167009163?v=4" width="100" style="border-radius: 50%; border: 3px solid #68A063;"/>
   <br><br>
-  <img src="https://img.shields.io/badge/zh13u-Backend_Engineer-68A063?style=for-the-badge&logo=node.js&logoColor=white" alt="zh13u"/>
+  <img src="https://img.shields.io/badge/zh13u-Backend_Developer-68A063?style=for-the-badge&logo=node.js&logoColor=white" alt="zh13u"/>
   <br><br>
-  <img src="https://img.shields.io/badge/Node.js-Expert-68A063?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-Expert-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Node.js-68A063?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <br>
-  <img src="https://img.shields.io/badge/APIs-Developer-FF6B35?style=flat&logo=postman&logoColor=white" alt="APIs"/>
+  <img src="https://img.shields.io/badge/API_Development-FF6B35?style=flat&logo=postman&logoColor=white" alt="APIs"/>
   <br><br>
   <a href="https://github.com/zh13u">
     <img src="https://img.shields.io/badge/GitHub-Profile-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -551,10 +557,10 @@ npm start
   <br><br>
   <img src="https://img.shields.io/badge/stepToBecomeGigachad-Blockchain_Developer-627EEA?style=for-the-badge&logo=ethereum&logoColor=white" alt="stepToBecomeGigachad"/>
   <br><br>
-  <img src="https://img.shields.io/badge/Solidity-Expert-363636?style=flat&logo=solidity&logoColor=white" alt="Solidity"/>
-  <img src="https://img.shields.io/badge/Smart_Contracts-Expert-627EEA?style=flat&logo=ethereum&logoColor=white" alt="Smart Contracts"/>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white" alt="Solidity"/>
+  <img src="https://img.shields.io/badge/Smart_Contracts-627EEA?style=flat&logo=ethereum&logoColor=white" alt="Smart Contracts"/>
   <br>
-  <img src="https://img.shields.io/badge/DeFi-Developer-8B5CF6?style=flat&logo=ethereum&logoColor=white" alt="DeFi"/>
+  <img src="https://img.shields.io/badge/DeFi_Development-8B5CF6?style=flat&logo=ethereum&logoColor=white" alt="DeFi"/>
   <br><br>
   <a href="https://github.com/stepToBecomeGigachad">
     <img src="https://img.shields.io/badge/GitHub-Profile-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -563,12 +569,12 @@ npm start
 <td align="center" width="20%">
   <img src="https://avatars.githubusercontent.com/u/167999420?v=4" width="100" style="border-radius: 50%; border: 3px solid #68A063;"/>
   <br><br>
-  <img src="https://img.shields.io/badge/Crabs536-Backend_Engineer-68A063?style=for-the-badge&logo=node.js&logoColor=white" alt="Crabs536"/>
+  <img src="https://img.shields.io/badge/Crabs536-Backend_Developer-68A063?style=for-the-badge&logo=node.js&logoColor=white" alt="Crabs536"/>
   <br><br>
-  <img src="https://img.shields.io/badge/Node.js-Expert-68A063?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-Expert-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Node.js-68A063?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <br>
-  <img src="https://img.shields.io/badge/Database-Architect-FF5722?style=flat&logo=postgresql&logoColor=white" alt="Database"/>
+  <img src="https://img.shields.io/badge/Database_Design-FF5722?style=flat&logo=postgresql&logoColor=white" alt="Database"/>
   <br><br>
   <a href="https://github.com/Crabs536">
     <img src="https://img.shields.io/badge/GitHub-Profile-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -576,6 +582,7 @@ npm start
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
@@ -690,7 +697,7 @@ This project was collaboratively built by our team of 5 developers, each bringin
 
 ---
 
-# 🙏 Acknowledgments
+## 🙏 Acknowledgments
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
@@ -702,7 +709,7 @@ This project was collaboratively built by our team of 5 developers, each bringin
 
 <br>
 
-## 🎓 Educational Support
+### 🎓 Educational Support
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=Proudly+Developed+at+PTIT+Ho+Chi+Minh;Under+Expert+Academic+Guidance;Software+Engineering+Excellence!" alt="Educational Typing SVG" />
@@ -766,3 +773,59 @@ This project was collaboratively built by our team of 5 developers, each bringin
 
 ---
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="150">
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Thank+You+for+Visiting!;🌟+Hope+you+enjoyed+our+project!" alt="Thank You Message" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50" />
+        <br>
+        <strong>🌟 Star us on GitHub</strong>
+        <br>
+        <sub>If you found this helpful!</sub>
+      </td>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="50" />
+        <br>
+        <strong>🤝 Connect with us</strong>
+        <br>
+        <sub>Let's build something amazing!</sub>
+      </td>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="50" />
+        <br>
+        <strong>📢 Share your feedback</strong>
+        <br>
+        <sub>We'd love to hear from you!</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Happy%20Coding!&fontSize=50&fontColor=fff&animation=twinkling" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Made_with-❤️-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Thank_You-For_Visiting-green?style=for-the-badge" />
+</div>
+
+<div align="center">
+  <sub>© 2025 | Built with passion by our amazing team 🚀</sub>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
