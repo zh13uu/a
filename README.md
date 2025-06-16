@@ -59,7 +59,7 @@
 
 ## ✨ **Key Features**
 
-<table>
+<table align="center">
 <tr>
 <td width="50%">
 
@@ -171,7 +171,7 @@ foodtrace/
 
 ### 🎨 **Frontend Powerhouse**
 
-<table>
+<table align="center">
 <tr>
 <td align="center" width="20%">
   <img src="https://skillicons.dev/icons?i=nextjs" width="40"/>
@@ -203,7 +203,7 @@ foodtrace/
 
 ### 🚀 **Backend Excellence**
 
-<table>
+<table align="center">
 <tr>
 <td align="center" width="25%">
   <img src="https://skillicons.dev/icons?i=nodejs" width="40"/>
@@ -230,7 +230,7 @@ foodtrace/
 
 ### ⛓️ **Blockchain Infrastructure**
 
-<table>
+<table align="center">
 <tr>
 <td align="center" width="25%">
   <img src="https://skillicons.dev/icons?i=solidity" width="40"/>
@@ -291,37 +291,18 @@ cd foodtrace
 ```bash
 cd frontend
 npm install
-# or
-yarn install
 ```
 
 #### 3️⃣ **Install Backend Dependencies**
 ```bash
 cd ../backend
 npm install
-# or
-yarn install
 ```
 
 #### 4️⃣ **Install Blockchain Dependencies**
 ```bash
 cd ../blockchain
 npm install
-# or
-yarn install
-```
-
-#### 5️⃣ **Environment Setup**
-```bash
-# Backend environment
-cd ../backend
-cp .env.example .env
-# Edit .env with your configuration
-
-# Frontend environment
-cd ../frontend
-cp .env.local.example .env.local
-# Edit .env.local with your configuration
 ```
 
 </details>
@@ -335,25 +316,17 @@ cp .env.local.example .env.local
 ```bash
 # 🚀 Start Frontend (Terminal 1)
 cd frontend
-npm run dev
+npm start
 
 # 🔥 Start Backend (Terminal 2)
 cd backend
-npm run dev
+npm start
 
 # ⛓️ Deploy Smart Contracts (Terminal 3)
 cd blockchain
-truffle migrate --network development
+python deploy.py
+python app.py
 ```
-
-<div align="center">
-
-**🎉 Application will be available at:**
-- **Frontend:** http://localhost:3000
-- **Backend:** http://localhost:5000
-- **Blockchain:** http://localhost:8545
-
-</div>
 
 ---
 
@@ -384,18 +357,6 @@ This project was collaboratively built by our team of 5 developers, each bringin
 - 📖 **Documentation:** Help improve our docs
 - 🧪 **Testing:** Add tests for new features
 - 🎨 **UI/UX:** Improve user experience
-
-### 👥 **Our Development Team**
-
-<div align="center">
-  <a href="https://github.com/your-repo/foodtrace/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=your-repo/foodtrace" />
-  </a>
-</div>
-
-<div align="center">
-  <sub>Our team of 5 passionate developers who made this project possible! 🚀</sub>
-</div>
 
 ---
 
