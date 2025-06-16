@@ -375,7 +375,7 @@ This project was collaboratively built by our team of 5 developers, each bringin
 <td align="center" width="20%">
   <img src="https://avatars.githubusercontent.com/u/127707514?v=4" width="80"/>
   <br>
-  <strong>Team Member 1</strong>
+  <strong>kuveee</strong>
   <br>
   <sub>🎨 Frontend Specialist</sub>
   <br>
@@ -383,12 +383,12 @@ This project was collaboratively built by our team of 5 developers, each bringin
   <br>
   <sub>Testing • Deployment</sub>
   <br>
-  <a href="https://github.com/member1">GitHub</a>
+  <a href="https://github.com/kuveee">GitHub</a>
 </td>
 <td align="center" width="20%">
   <img src="https://avatars.githubusercontent.com/u/129470696?v=4" width="80"/>
   <br>
-  <strong>Team Member 2</strong>
+  <strong>NTK1100</strong>
   <br>
   <sub>⛓️ Blockchain Developer</sub>
   <br>
@@ -396,12 +396,12 @@ This project was collaboratively built by our team of 5 developers, each bringin
   <br>
   <sub>Testing • Deployment</sub>
   <br>
-  <a href="https://github.com/member2">GitHub</a>
+  <a href="https://github.com/NTK1100">GitHub</a>
 </td>
 <td align="center" width="20%">
   <img src="https://avatars.githubusercontent.com/u/167009163?v=4" width="80"/>
   <br>
-  <strong>Team Member 3</strong>
+  <strong>zh13u</strong>
   <br>
   <sub>🔧 Backend Engineer</sub>
   <br>
@@ -409,12 +409,12 @@ This project was collaboratively built by our team of 5 developers, each bringin
   <br>
   <sub>Testing • Deployment</sub>
   <br>
-  <a href="https://github.com/member3">GitHub</a>
+  <a href="https://github.com/zh13u">GitHub</a>
 </td>
 <td align="center" width="20%">
   <img src="https://avatars.githubusercontent.com/u/199244596?v=4" width="80"/>
   <br>
-  <strong>Team Member 4</strong>
+  <strong>stepToBecomeGigachad</strong>
   <br>
   <sub>⛓️ Blockchain Developer</sub>
   <br>
@@ -422,12 +422,12 @@ This project was collaboratively built by our team of 5 developers, each bringin
   <br>
   <sub>Testing • Deployment</sub>
   <br>
-  <a href="https://github.com/member4">GitHub</a>
+  <a href="https://github.com/stepToBecomeGigachad">GitHub</a>
 </td>
 <td align="center" width="20%">
   <img src="https://avatars.githubusercontent.com/u/167999420?v=4" width="80"/>
   <br>
-  <strong>Team Member 5</strong>
+  <strong>Crabs536</strong>
   <br>
   <sub>🔧 Backend Engineer</sub>
   <br>
@@ -435,7 +435,7 @@ This project was collaboratively built by our team of 5 developers, each bringin
   <br>
   <sub>Testing • Deployment</sub>
   <br>
-  <a href="https://github.com/member5">GitHub</a>
+  <a href="https://github.com/Crabs536">GitHub</a>
 </td>
 </tr>
 </table>
