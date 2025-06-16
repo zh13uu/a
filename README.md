@@ -373,7 +373,7 @@ This project was collaboratively built by our team of 5 developers, each bringin
 <table align="center">
 <tr>
 <td align="center" width="20%">
-  <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1e-4f6746bb4ff4.gif" width="80"/>
+  <img src="https://avatars.githubusercontent.com/u/127707514?v=4" width="80"/>
   <br>
   <strong>Team Member 1</strong>
   <br>
@@ -384,7 +384,7 @@ This project was collaboratively built by our team of 5 developers, each bringin
   <a href="https://github.com/member1">GitHub</a>
 </td>
 <td align="center" width="20%">
-  <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="80"/>
+  <img src="https://avatars.githubusercontent.com/u/129470696?v=4" width="80"/>
   <br>
   <strong>Team Member 2</strong>
   <br>
@@ -395,7 +395,7 @@ This project was collaboratively built by our team of 5 developers, each bringin
   <a href="https://github.com/member2">GitHub</a>
 </td>
 <td align="center" width="20%">
-  <img src="https://user-images.githubusercontent.com/74038190/235294009-55e5da2d-8328-462f-9d8f-c67b86e7c6c1.gif" width="80"/>
+  <img src="https://avatars.githubusercontent.com/u/167009163?v=4" width="80"/>
   <br>
   <strong>Team Member 3</strong>
   <br>
@@ -406,7 +406,7 @@ This project was collaboratively built by our team of 5 developers, each bringin
   <a href="https://github.com/member3">GitHub</a>
 </td>
 <td align="center" width="20%">
-  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80"/>
+  <img src="https://avatars.githubusercontent.com/u/199244596?v=4" width="80"/>
   <br>
   <strong>Team Member 4</strong>
   <br>
@@ -417,7 +417,7 @@ This project was collaboratively built by our team of 5 developers, each bringin
   <a href="https://github.com/member4">GitHub</a>
 </td>
 <td align="center" width="20%">
-  <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="80"/>
+  <img src="https://avatars.githubusercontent.com/u/167999420?v=4" width="80"/>
   <br>
   <strong>Team Member 5</strong>
   <br>
@@ -467,22 +467,20 @@ Special thanks to all the amazing technologies, communities, and our team collab
 <table align="center" width="100%">
 <tr>
 <td align="center" width="33%">
-  <img src="https://ptit.edu.vn/wp-content/uploads/2024/08/logo-PTIT-826x1024.jpg" width="80"/>
+  <img src="https://ptit.edu.vn/wp-content/uploads/2024/08/logo-PTIT-826x1024.jpg" width="80" height="80"/>
   <br>
   <strong>🏫 ACADEMIC INSTITUTION</strong>
   <br>
   <sub><strong>Posts and Telecommunications Institute of Technology</strong></sub>
   <br>
   <sub><strong>Ho Chi Minh City Campus</strong></sub>
-  <br><br>
-  <sub>🎯 Exceptional academic resources</sub>
   <br>
-  <sub>🏢 State-of-the-art facilities</sub>
+  <sub>🎯 Exceptional academic resources</sub>
   <br>
   <sub>🚀 Innovation in technology education</sub>
 </td>
 <td align="center" width="33%">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80"/>
+  <img src="https://static.vecteezy.com/system/resources/previews/004/610/354/non_2x/simple-minimalist-pen-graduation-hat-for-education-school-university-logo-design-vector.jpg" width="80" height="80"/>
   <br>
   <strong>👨‍🏫 FACULTY MENTOR</strong>
   <br>
@@ -497,7 +495,7 @@ Special thanks to all the amazing technologies, communities, and our team collab
   <sub>🛠️ Modern software development practices</sub>
 </td>
 <td align="center" width="33%">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="80"/>
+  <img src="https://logo.com/image-cdn/images/kts928pd/production/e6c16c6fdc213eae670cae97c487582ad720f85e-351x351.png?w=1080&q=72&fm=webp" width="80" height="80"/>
   <br>
   <strong>📚 COURSE FOUNDATION</strong>
   <br>
@@ -516,7 +514,7 @@ Special thanks to all the amazing technologies, communities, and our team collab
 
 <div align="center">
   <img src="https://img.shields.io/badge/🎓_PTIT_Ho_Chi_Minh-Educational_Excellence-4CAF50?style=for-the-badge&logoColor=white" alt="PTIT Badge"/>
-  <img src="https://img.shields.io/badge/👨‍🏫_Dr._Chau_Van_Van-Faculty_Mentor-2196F3?style=for-the-badge&logoColor=white" alt="Mentor Badge"/>
+  <img src="https://img.shields.io/badge/Mr._Chau_Van_Van_MSc-Faculty_Mentor-2196F3?style=for-the-badge&logoColor=white" alt="Mentor Badge"/>
   <img src="https://img.shields.io/badge/📚_Software_Engineering-Academic_Foundation-FF9800?style=for-the-badge&logoColor=white" alt="Course Badge"/>
 </div>
 
