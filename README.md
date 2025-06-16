@@ -1,592 +1,573 @@
-# 🥗 FoodTrace - Revolutionary Food Traceability System
+# 🥗 FoodTrace - Food Traceability System
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=FoodTrace&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2500&pause=1000&color=00FF88&background=000000&center=true&vCenter=true&width=800&lines=🌟+WELCOME+TO+FOODTRACE+🌟;⛓️+BLOCKCHAIN+FOOD+TRACEABILITY+⛓️;🔒+TRANSPARENCY+%26+SAFETY+FIRST+🔒;🚀+BUILT+WITH+CUTTING-EDGE+TECH+🚀" alt="Dynamic Header" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=800&height=100&lines=🚀+BLOCKCHAIN+REVOLUTION;🔒+SECURE+TRACEABILITY;🌐+FARM+TO+FORK;⚡+NEXT-GEN+TECHNOLOGY" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=🍃%20FoodTrace%20🍃&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Revolutionary%20Food%20Supply%20Chain%20Solution&descAlignY=55&descAlign=50" />
 </div>
 
 ---
 
-## 🌟 **MISSION STATEMENT**
+<div align="center">
+
+## 🎯 **NEXT-GENERATION TECH STACK**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+
+</div>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,solidity,nodejs,express,mongodb,ethereum,docker,aws&perline=10" />
+</p>
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
-      </td>
-      <td>
-        <h3>🎯 TRANSFORMING FOOD SAFETY</h3>
-        <p><em>Revolutionizing global food supply chains through cutting-edge blockchain technology, ensuring transparency, authenticity, and safety from farm to consumer.</em></p>
-      </td>
-      <td>
-        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
-      </td>
-    </tr>
-  </table>
+  <img src="https://img.shields.io/badge/⚡_Next.js_14.1.0-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000000" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/⚛️_React_18.2.0-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/📘_TypeScript_5.3.3-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3178C6" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/⛓️_Web3_4.16.0-F16822?style=for-the-badge&logo=web3.js&logoColor=white&labelColor=F16822" alt="Web3"/>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🚀_Express_5.1.0-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=000000" alt="Express"/>
+  <img src="https://img.shields.io/badge/🍃_MongoDB_8.13.2-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/📜_Solidity_0.8.29-363636?style=for-the-badge&logo=solidity&logoColor=white&labelColor=363636" alt="Solidity"/>
+  <img src="https://img.shields.io/badge/🦊_Truffle_5.11.5-3FE0C5?style=for-the-badge&logo=truffle&logoColor=black&labelColor=3FE0C5" alt="Truffle"/>
 </div>
 
 ---
 
-## 🏆 **TECHNOLOGY POWERHOUSE**
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,solidity,nodejs,express,mongodb,ethereum,materialui,docker&perline=10&theme=dark" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,30&height=2&section=divider" />
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/⚡_Next.js_14.1.0-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=1a1a1a" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/⚛️_React_18.2.0-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1a1a1a" alt="React"/>
-  <img src="https://img.shields.io/badge/📘_TypeScript_5.3.3-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1a1a1a" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/⛓️_Solidity_0.8.29-363636?style=for-the-badge&logo=solidity&logoColor=white&labelColor=1a1a1a" alt="Solidity"/>
-</div>
+## 🌟 **ABOUT FOODTRACE**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🚀_Express_5.1.0-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=1a1a1a" alt="Express"/>
-  <img src="https://img.shields.io/badge/🍃_MongoDB_8.13.2-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1a1a1a" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/🦊_Truffle_5.11.5-3FE0C5?style=for-the-badge&logo=truffle&logoColor=black&labelColor=1a1a1a" alt="Truffle"/>
-  <img src="https://img.shields.io/badge/⛏️_Hardhat_2.23.0-F7B93E?style=for-the-badge&logo=hardhat&logoColor=black&labelColor=1a1a1a" alt="Hardhat"/>
-</div>
-
----
-
-## 🚀 **REVOLUTIONARY FEATURES**
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="600">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=600&size=22&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=120&lines=🔮+Revolutionary+Food+Supply+Chain+Solution;⛓️+Powered+by+Blockchain+Technology;🛡️+Ensuring+Transparency+%26+Food+Safety;🌍+From+Farm+to+Fork+Tracking" alt="About Description" />
 </div>
 
 <table align="center" width="100%">
 <tr>
-<td width="33%" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"/>
-  <h3>🔗 BLOCKCHAIN IMMUTABILITY</h3>
-  <p>• Tamper-proof transaction records<br>
-  • Smart contract automation<br>
-  • Decentralized security<br>
-  • Real-time consensus</p>
+<td width="50%" align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400"/>
 </td>
-<td width="33%" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"/>
-  <h3>📱 INSTANT VERIFICATION</h3>
-  <p>• QR code integration<br>
-  • Mobile-first design<br>
-  • Real-time tracking<br>
-  • Instant authenticity</p>
-</td>
-<td width="33%" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100"/>
-  <h3>📊 ADVANCED ANALYTICS</h3>
-  <p>• Live dashboard insights<br>
-  • Predictive analytics<br>
-  • Supply chain optimization<br>
-  • Performance metrics</p>
+<td width="50%">
+
+**FoodTrace** revolutionizes food supply chain transparency through cutting-edge blockchain technology. Our platform ensures **food safety**, **authenticity**, and **complete traceability** from farm to fork.
+
+### 🎯 **Why Choose FoodTrace?**
+- 🔐 **Immutable blockchain records** guarantee data integrity
+- 📱 **Real-time tracking** with QR code integration  
+- 🌐 **Web3 enabled** with smart contract automation
+- 📊 **Advanced analytics** for supply chain optimization
+- 🔍 **Instant verification** for consumers and businesses
+
 </td>
 </tr>
 </table>
 
 ---
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=50&section=divider&reversal=true" />
+</div>
+
+## ✨ **REVOLUTIONARY FEATURES**
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
+</div>
+
+<table align="center" width="100%">
+<tr>
+<td width="33%" align="center">
+
+### 🔍 **REAL-TIME TRACEABILITY**
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80"/>
+
+- ⚡ Track products through entire supply chain
+- 📍 Live location and status updates  
+- 🔄 Instant access to product history
+- 📈 Real-time quality monitoring
+
+</td>
+<td width="33%" align="center">
+
+### 🔐 **BLOCKCHAIN SECURITY**
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80"/>
+
+- 🛡️ Immutable transaction records
+- 🤖 Smart contract automation
+- 🌐 Decentralized data storage
+- 🔒 Cryptographic verification
+
+</td>
+<td width="33%" align="center">
+
+### 📱 **QR CODE INTEGRATION**
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"/>
+
+- 📷 Mobile-friendly scanning
+- ⚡ Quick product information access
+- ✅ Instant verification system
+- 🔗 Direct blockchain connection
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=divider" />
+</div>
+
+<table align="center" width="100%">
+<tr>
+<td width="33%" align="center">
+
+### 📊 **ADVANCED ANALYTICS**
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="80"/>
+
+- 📈 Comprehensive dashboards
+- 📋 Real-time reporting system
+- 🎯 Supply chain insights
+- 📉 Performance optimization
+
+</td>
+<td width="33%" align="center">
+
+### 🌐 **WEB3 INTEGRATION**
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7c2812.gif" width="80"/>
+
+- 💰 Secure cryptocurrency transactions
+- 🦊 Wallet connectivity (MetaMask)
+- 🔗 DeFi protocol support
+- ⛓️ Multi-chain compatibility
+
+</td>
+<td width="33%" align="center">
+
+### 📱 **RESPONSIVE DESIGN**
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="80"/>
+
+- 📱 Cross-platform compatibility
+- 🎨 Modern UI/UX design
+- 📲 Progressive Web App features
+- 🌙 Dark/Light mode support
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=0,6,12,18,24&height=100&section=divider" />
+</div>
+
 ## 🏗️ **SYSTEM ARCHITECTURE**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2000&pause=1000&color=9146FF&center=true&vCenter=true&width=600&lines=MICROSERVICES+ARCHITECTURE;CLOUD-NATIVE+DESIGN;ENTERPRISE+SCALABILITY" alt="Architecture Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=25&duration=2000&pause=1000&color=9146FF&center=true&vCenter=true&width=700&lines=🏢+MICROSERVICES+ARCHITECTURE;⚡+SCALABLE+%26+MAINTAINABLE;☁️+CLOUD-NATIVE+DESIGN;🔄+EVENT-DRIVEN+SYSTEM" alt="Architecture Header" />
 </div>
 
 ```mermaid
 graph TB
     subgraph "🌐 Frontend Layer"
-        A[🎨 Next.js App]
-        B[📱 Mobile Interface]
-        C[🔍 QR Scanner]
+        A[📱 Next.js Web App]
+        I[📱 Mobile App]
+        J[🔍 QR Scanner]
     end
     
-    subgraph "🚀 API Gateway"
-        D[🛡️ Load Balancer]
-        E[🔐 Auth Middleware]
-        F[📊 Rate Limiter]
+    subgraph "🚀 API Gateway Layer"
+        B[🔒 API Gateway]
     end
     
-    subgraph "⚙️ Microservices"
-        G[👤 User Service]
-        H[📦 Product Service]
-        I[🔗 Traceability Service]
-        J[⛓️ Blockchain Service]
+    subgraph "🛠️ Microservices"
+        C[🔐 Auth Service]
+        D[📊 Traceability Service]
+        E[⛓️ Blockchain Service]
+        K[📧 Notification Service]
     end
     
     subgraph "💾 Data Layer"
-        K[(🍃 MongoDB)]
-        L[(📈 Analytics DB)]
-        M[📁 File Storage]
+        F[(🍃 MongoDB)]
+        L[(📊 Analytics DB)]
     end
     
     subgraph "⛓️ Blockchain Layer"
-        N[📜 Smart Contracts]
-        O[🔗 Ethereum Network]
-        P[🔒 IPFS Storage]
+        G[📜 Smart Contracts]
+        H[⛓️ Ethereum Network]
+        M[🔗 IPFS Storage]
     end
     
-    A --> D
+    A --> B
+    I --> B
+    J --> B
+    B --> C
     B --> D
-    C --> D
-    D --> E
-    E --> F
-    F --> G
-    F --> H
-    F --> I
-    F --> J
+    B --> E
+    B --> K
     
-    G --> K
-    H --> K
-    I --> K
-    J --> N
-    N --> O
-    I --> L
-    H --> M
-    J --> P
+    C --> F
+    D --> F
+    D --> L
+    E --> G
+    G --> H
+    G --> M
     
     style A fill:#61DAFB,stroke:#000,stroke-width:2px,color:#000
-    style N fill:#363636,stroke:#fff,stroke-width:2px,color:#fff
-    style O fill:#627EEA,stroke:#fff,stroke-width:2px,color:#fff
+    style B fill:#FF6B35,stroke:#000,stroke-width:2px,color:#fff
+    style C fill:#4CAF50,stroke:#000,stroke-width:2px,color:#fff
+    style D fill:#2196F3,stroke:#000,stroke-width:2px,color:#fff
+    style E fill:#9C27B0,stroke:#000,stroke-width:2px,color:#fff
+    style F fill:#47A248,stroke:#000,stroke-width:2px,color:#fff
+    style G fill:#363636,stroke:#000,stroke-width:2px,color:#fff
+    style H fill:#627EEA,stroke:#000,stroke-width:2px,color:#fff
 ```
-
----
-
-## 📁 **PROJECT STRUCTURE**
-
-<details>
-<summary>🗂️ <strong>DETAILED ARCHITECTURE BREAKDOWN</strong></summary>
-
-```
-🏢 FoodTrace Enterprise Suite
-├── 🎨 frontend/                          # Next.js 14 Application
-│   ├── 🧩 src/
-│   │   ├── 📄 app/                       # App Router (Next.js 13+)
-│   │   │   ├── 🏠 (dashboard)/           # Dashboard routes
-│   │   │   ├── 🔐 auth/                  # Authentication pages
-│   │   │   ├── 📱 mobile/                # Mobile-specific routes
-│   │   │   └── 🔍 scanner/               # QR Scanner interface
-│   │   ├── 🧩 components/
-│   │   │   ├── 🎨 ui/                    # Reusable UI components
-│   │   │   ├── 📊 charts/                # Data visualization
-│   │   │   ├── 📱 mobile/                # Mobile components
-│   │   │   └── 🔍 scanner/               # QR Scanner components
-│   │   ├── 🔗 hooks/                     # Custom React hooks
-│   │   ├── 🛠️ lib/                       # Utility libraries
-│   │   ├── 🎨 styles/                    # Global styles & themes
-│   │   └── 🔧 utils/                     # Helper functions
-│   ├── 📁 public/                        # Static assets
-│   └── ⚙️ Configuration files
-│
-├── 🚀 backend/                           # Node.js Microservices
-│   ├── 🔐 auth-service/                  # Authentication service
-│   ├── 👤 user-service/                  # User management
-│   ├── 📦 product-service/               # Product management
-│   ├── 🔗 traceability-service/          # Supply chain tracking
-│   ├── ⛓️ blockchain-service/            # Web3 integration
-│   ├── 📊 analytics-service/             # Data analytics
-│   ├── 🔍 scanner-service/               # QR code processing
-│   └── 🌐 api-gateway/                   # Central API gateway
-│
-├── ⛓️ blockchain/                        # Smart Contract Suite
-│   ├── 📜 contracts/
-│   │   ├── 🏭 SupplyChain.sol           # Main supply chain contract
-│   │   ├── 📦 Product.sol               # Product NFT contract
-│   │   ├── 👤 Identity.sol              # Identity management
-│   │   └── 🔐 AccessControl.sol         # Permission system
-│   ├── 🧪 test/                         # Comprehensive test suite
-│   ├── 📋 scripts/                      # Deployment & utility scripts
-│   ├── 🔧 migrations/                   # Contract migrations
-│   └── ⚙️ Configuration files
-│
-├── 📱 mobile/                           # React Native App (Future)
-│   ├── 🎨 src/
-│   ├── 📁 assets/
-│   └── ⚙️ Configuration files
-│
-├── 🔧 infrastructure/                   # DevOps & Infrastructure
-│   ├── 🐳 docker/                      # Docker configurations
-│   ├── ☁️ aws/                         # AWS infrastructure
-│   ├── 🔄 ci-cd/                       # CI/CD pipelines
-│   └── 📊 monitoring/                  # Monitoring & logging
-│
-└── 📚 docs/                            # Documentation
-    ├── 📖 api/                         # API documentation
-    ├── 🏗️ architecture/                # System architecture
-    ├── 🚀 deployment/                  # Deployment guides
-    └── 👥 user-guides/                 # User manuals
-```
-
-</details>
-
----
-
-## ⚡ **QUICK START GUIDE**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=LAUNCH+IN+MINUTES!;ENTERPRISE+READY;PRODUCTION+DEPLOYMENT!" alt="Quick Start Typing SVG" />
+  <img src="https://img.shields.io/badge/🏗️_Architecture-Microservices-9146FF?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Architecture"/>
+  <img src="https://img.shields.io/badge/☁️_Deployment-Cloud_Native-00D4AA?style=for-the-badge&logo=docker&logoColor=white" alt="Cloud"/>
+  <img src="https://img.shields.io/badge/🔄_Pattern-Event_Driven-FF6B35?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Event Driven"/>
 </div>
 
-### 📋 **SYSTEM REQUIREMENTS**
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12,20,30&height=100&section=divider" />
+</div>
+
+## 🛠️ **TECHNOLOGY POWERHOUSE**
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+</div>
+
+### 🎨 **Frontend Excellence**
 
 <div align="center">
   <table>
     <tr>
-      <th>🛠️ Component</th>
-      <th>📦 Version</th>
-      <th>🎯 Status</th>
-      <th>📝 Notes</th>
-    </tr>
-    <tr>
-      <td><img src="https://skillicons.dev/icons?i=nodejs" width="20"/> Node.js</td>
-      <td>≥ 18.0.0</td>
-      <td>✅ Critical</td>
-      <td>LTS Recommended</td>
-    </tr>
-    <tr>
-      <td><img src="https://skillicons.dev/icons?i=npm" width="20"/> npm/yarn</td>
-      <td>Latest</td>
-      <td>✅ Critical</td>
-      <td>Package Manager</td>
-    </tr>
-    <tr>
-      <td><img src="https://skillicons.dev/icons?i=docker" width="20"/> Docker</td>
-      <td>≥ 20.0.0</td>
-      <td>✅ Critical</td>
-      <td>Containerization</td>
-    </tr>
-    <tr>
-      <td><img src="https://skillicons.dev/icons?i=mongodb" width="20"/> MongoDB</td>
-      <td>≥ 6.0.0</td>
-      <td>🔧 Development</td>
-      <td>Database</td>
-    </tr>
-    <tr>
-      <td>⛓️ Ganache</td>
-      <td>Latest</td>
-      <td>🧪 Testing</td>
-      <td>Local Blockchain</td>
+      <td align="center" width="20%">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="50"/>
+        <br><strong>Next.js 14</strong>
+        <br><sub>⚡ SSR & Performance</sub>
+        <br><sub>🔥 App Router</sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://skillicons.dev/icons?i=react" width="50"/>
+        <br><strong>React 18</strong>
+        <br><sub>🪝 Modern Hooks</sub>
+        <br><sub>⚛️ Concurrent Features</sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://skillicons.dev/icons?i=typescript" width="50"/>
+        <br><strong>TypeScript</strong>
+        <br><sub>🔒 Type Safety</sub>
+        <br><sub>🚀 Developer Experience</sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://skillicons.dev/icons?i=materialui" width="50"/>
+        <br><strong>Material-UI</strong>
+        <br><sub>🎨 Premium Design</sub>
+        <br><sub>📱 Responsive Components</sub>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50"/>
+        <br><strong>Web3</strong>
+        <br><sub>⛓️ Blockchain Integration</sub>
+        <br><sub>🦊 Wallet Connection</sub>
+      </td>
     </tr>
   </table>
 </div>
 
-### 🚀 **ONE-CLICK DEPLOYMENT**
+### 🚀 **Backend Infrastructure**
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="50"/>
+        <br><strong>Node.js</strong>
+        <br><sub>⚡ High Performance</sub>
+        <br><sub>🔄 Event-Driven</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://skillicons.dev/icons?i=express" width="50"/>
+        <br><strong>Express.js</strong>
+        <br><sub>🚀 Web Framework</sub>
+        <br><sub>📡 RESTful APIs</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="50"/>
+        <br><strong>MongoDB</strong>
+        <br><sub>🍃 NoSQL Database</sub>
+        <br><sub>📊 Flexible Schema</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="50"/>
+        <br><strong>JWT</strong>
+        <br><sub>🔐 Authentication</sub>
+        <br><sub>🛡️ Security</sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
-```bash
-# 🏗️ INFRASTRUCTURE SETUP
-git clone https://github.com/your-username/foodtrace.git
-cd foodtrace
+### ⛓️ **Blockchain Ecosystem**
 
-# 🐳 DOCKER COMPOSE DEPLOYMENT
-docker-compose up -d
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://skillicons.dev/icons?i=solidity" width="50"/>
+        <br><strong>Solidity</strong>
+        <br><sub>📜 Smart Contracts</sub>
+        <br><sub>⚡ Gas Optimized</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7c2812.gif" width="50"/>
+        <br><strong>Truffle</strong>
+        <br><sub>🛠️ Development Suite</sub>
+        <br><sub>📋 Testing Framework</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50"/>
+        <br><strong>Hardhat</strong>
+        <br><sub>🧪 Testing Environment</sub>
+        <br><sub>🔍 Debugging Tools</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://skillicons.dev/icons?i=ethereum" width="50"/>
+        <br><strong>Ethereum</strong>
+        <br><sub>⛓️ Blockchain Network</sub>
+        <br><sub>🌐 Decentralized</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
-# 🎯 QUICK ACCESS URLS
-echo "🌐 Frontend: http://localhost:3000"
-echo "🔧 Admin: http://localhost:3000/admin" 
-echo "📊 API Docs: http://localhost:8000/docs"
-echo "⛓️ Blockchain: http://localhost:7545"
-```
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=divider&text=🚀%20QUICK%20START&fontSize=30&fontColor=fff&animation=fadeIn" />
+</div>
+
+## 🚀 **QUICK START GUIDE**
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=20&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=⚡+GET+STARTED+IN+MINUTES!;📋+FOLLOW+SIMPLE+STEPS;🔥+START+BUILDING+TODAY!" alt="Quick Start" />
+</div>
+
+### 📋 **Prerequisites Checklist**
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="30"/>
+        <br><strong>Node.js</strong>
+        <br>v14.x or higher
+        <br>✅ <sub>Required</sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=npm" width="30"/>
+        <br><strong>NPM/Yarn</strong>
+        <br>Latest version
+        <br>✅ <sub>Required</sub>
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=git" width="30"/>
+        <br><strong>Git</strong>
+        <br>Latest version
+        <br>✅ <sub>Required</sub>
+      </td>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30"/>
+        <br><strong>Ganache</strong>
+        <br>Local blockchain
+        <br>🔧 <sub>Development</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 🔥 **Lightning-Fast Setup**
 
 <details>
-<summary>🔧 <strong>MANUAL SETUP (ADVANCED)</strong></summary>
+<summary>🚀 <strong>One-Click Installation Guide</strong></summary>
 
-#### 1️⃣ **DATABASE INITIALIZATION**
+#### 1️⃣ **Clone & Navigate**
 ```bash
-# MongoDB with Docker
-docker run -d \
-  --name foodtrace-mongo \
-  -p 27017:27017 \
-  -e MONGO_INITDB_ROOT_USERNAME=admin \
-  -e MONGO_INITDB_ROOT_PASSWORD=admin123 \
-  -v foodtrace-data:/data/db \
-  mongo:7.0
+git clone https://github.com/your-username/foodtrace.git
+cd foodtrace
 ```
 
-#### 2️⃣ **BLOCKCHAIN DEPLOYMENT**
-```bash
-cd blockchain
-npm install
-npm run compile
-npm run migrate
-python app.py
-```
-
-#### 3️⃣ **BACKEND SERVICES**
-```bash
-cd backend
-npm install
-npm run dev
-```
-
-#### 4️⃣ **FRONTEND APPLICATION**
+#### 2️⃣ **Frontend Setup**
 ```bash
 cd frontend
 npm install
-npm run dev
+# or
+yarn install
+```
+
+#### 3️⃣ **Backend Setup**
+```bash
+cd ../backend
+npm install
+# or
+yarn install
+```
+
+#### 4️⃣ **Blockchain Setup**
+```bash
+cd ../blockchain
+npm install
+# or
+yarn install
 ```
 
 </details>
 
-### 🎯 **ACCESS POINTS**
+### 🏃‍♂️ **Launch Sequence**
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-a8c0-b9c6ba57ed34.gif" width="200">
+</div>
+
+```bash
+# 🐳 Setup MongoDB with Docker
+docker pull mongo:latest
+docker run -d -p 27017:27017 --name foodtrace-mongo mongo:latest
+```
+
+<table align="center">
+<tr>
+<td width="33%" align="center">
+
+### ⛓️ **Blockchain** (Terminal 1)
+```bash
+cd blockchain
+# Setup Ganache first
+python deploy.py
+python app.py
+```
+<sub>🚀 Deploys smart contracts</sub>
+
+</td>
+<td width="33%" align="center">
+
+### 🔥 **Backend** (Terminal 2)
+```bash
+cd backend
+npm start
+```
+<sub>⚡ API server on port 5000</sub>
+
+</td>
+<td width="33%" align="center">
+
+### 🎨 **Frontend** (Terminal 3)
+```bash
+cd frontend
+npm start
+```
+<sub>🌐 Web app on port 3000</sub>
+
+</td>
+</tr>
+</table>
+
+### 🌐 **Access Points**
 
 <div align="center">
   <table>
     <tr>
-      <th>🌐 Service</th>
-      <th>🔗 URL</th>
-      <th>👤 Credentials</th>
-      <th>📝 Description</th>
-    </tr>
-    <tr>
-      <td>🏠 <strong>Homepage</strong></td>
-      <td><a href="http://localhost:3000">localhost:3000</a></td>
-      <td>Public Access</td>
-      <td>QR Scanner & Info</td>
-    </tr>
-    <tr>
-      <td>🔧 <strong>Admin Panel</strong></td>
-      <td><a href="http://localhost:3000/admin">localhost:3000/admin</a></td>
-      <td>admin@gmail.com / admin123</td>
-      <td>System Management</td>
-    </tr>
-    <tr>
-      <td>📊 <strong>Dashboard</strong></td>
-      <td><a href="http://localhost:3000/login">localhost:3000/login</a></td>
-      <td>Supplier Accounts</td>
-      <td>Product Management</td>
-    </tr>
-    <tr>
-      <td>📖 <strong>API Docs</strong></td>
-      <td><a href="http://localhost:8000/docs">localhost:8000/docs</a></td>
-      <td>Public Access</td>
-      <td>API Documentation</td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/🏠_Homepage-localhost%3A3000-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="Homepage"/>
+        <br><sub>📷 QR Code scanning & image upload</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/👨‍💼_Admin-localhost%3A3000%2Fadmin-FF6B35?style=for-the-badge&logo=shield&logoColor=white" alt="Admin"/>
+        <br><sub>🔐 admin@gmail.com / admin123</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/🏪_Supplier-localhost%3A3000%2Flogin-4CAF50?style=for-the-badge&logo=store&logoColor=white" alt="Supplier"/>
+        <br><sub>📊 Product management dashboard</sub>
+      </td>
     </tr>
   </table>
 </div>
 
 ---
 
-## 🎨 **USER EXPERIENCE SHOWCASE**
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=0,6,12,18,24&height=100&section=divider&text=👥%20MEET%20THE%20TEAM&fontSize=25&fontColor=fff" />
 </div>
 
-### 📱 **MULTI-PLATFORM INTERFACE**
-
-<table align="center">
-<tr>
-<td width="25%" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80"/>
-  <h4>🌐 WEB DASHBOARD</h4>
-  <p><em>Comprehensive admin interface with real-time analytics and supply chain management</em></p>
-</td>
-<td width="25%" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"/>
-  <h4>📱 MOBILE APP</h4>
-  <p><em>Native iOS/Android app for suppliers and consumers with QR scanning capabilities</em></p>
-</td>
-<td width="25%" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7c2812.gif" width="80"/>
-  <h4>🔍 QR SCANNER</h4>
-  <p><em>Instant product verification and traceability information access</em></p>
-</td>
-<td width="25%" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80"/>
-  <h4>⛓️ BLOCKCHAIN</h4>
-  <p><em>Decentralized data storage ensuring transparency and immutability</em></p>
-</td>
-</tr>
-</table>
-
----
-
-## 🔧 **ADVANCED FEATURES**
+## 👥 **MEET OUR ELITE TEAM**
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="200">
-</div>
-
-### 🏭 **SUPPLY CHAIN MANAGEMENT**
-
-<table align="center" width="100%">
-<tr>
-<td width="50%">
-
-#### 🌱 **FARM TO FORK TRACKING**
-- 📍 **GPS Location Tracking** - Real-time location updates
-- 🌡️ **Temperature Monitoring** - Cold chain compliance
-- 📦 **Batch Management** - Lot tracking and recalls
-- 🔄 **Status Updates** - Automated workflow triggers
-- 📊 **Quality Metrics** - Continuous quality assessment
-
-#### 🔐 **SECURITY & COMPLIANCE**
-- 🛡️ **End-to-End Encryption** - Data protection
-- 🔑 **Multi-Factor Authentication** - Enhanced security
-- 📋 **Regulatory Compliance** - Industry standards
-- 🔍 **Audit Trails** - Complete transaction history
-- 🚨 **Fraud Detection** - AI-powered monitoring
-
-</td>
-<td width="50%">
-
-#### 📊 **ANALYTICS & INSIGHTS**
-- 📈 **Predictive Analytics** - Demand forecasting
-- 🎯 **Performance KPIs** - Key performance indicators
-- 📱 **Real-time Dashboards** - Live data visualization
-- 📊 **Custom Reports** - Tailored business intelligence
-- 🔔 **Smart Alerts** - Proactive notifications
-
-#### 🌐 **INTEGRATION CAPABILITIES**
-- 🔗 **ERP Integration** - Enterprise resource planning
-- 📦 **IoT Connectivity** - Sensor data integration
-- 🤖 **API Ecosystem** - Third-party integrations
-- ☁️ **Cloud Scalability** - Auto-scaling infrastructure
-- 🔄 **Webhook Support** - Real-time event triggers
-
-</td>
-</tr>
-</table>
-
----
-
-## 👥 **ELITE DEVELOPMENT TEAM**
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2000&pause=1000&color=E91E63&center=true&vCenter=true&width=800&lines=MEET+THE+ARCHITECTS;INNOVATION+SPECIALISTS;BLOCKCHAIN+PIONEERS;FULL-STACK+MASTERS" alt="Team Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=24&duration=2500&pause=1000&color=E91E63&center=true&vCenter=true&width=800&lines=🌟+MEET+OUR+AMAZING+TEAM!;👨‍💻+5+PASSIONATE+DEVELOPERS;🚀+BUILDING+THE+FUTURE+TOGETHER!;💡+COLLABORATIVE+EXCELLENCE!" alt="Team Header" />
 </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99c676e5e62d.gif" width="300">
 </div>
 
-<table align="center" width="100%">
+<table align="center" width="100%" style="margin: 20px 0;">
 <tr>
 <td align="center" width="20%">
-  <img src="https://avatars.githubusercontent.com/u/127707514?v=4" width="120" style="border-radius: 50%; border: 3px solid #00D8FF;"/>
+  <img src="https://avatars.githubusercontent.com/u/127707514?v=4" width="100" style="border-radius: 50%; border: 3px solid #61DAFB;"/>
   <br><br>
-  <h3>🎨 kuveee</h3>
-  <p><strong>Frontend Architect</strong></p>
-  <p>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind" width="100"/>
-  </p>
-  <p><em>UI/UX Design • Component Architecture • Performance Optimization</em></p>
+  <img src="https://img.shields.io/badge/kuveee-Frontend_Specialist-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="kuveee"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/React-Expert-61DAFB?style=flat&logo=react&logoColor=white" alt="React"/>
+  <img src="https://img.shields.io/badge/TypeScript-Expert-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <br>
+  <img src="https://img.shields.io/badge/UI%2FUX-Designer-FF6B35?style=flat&logo=figma&logoColor=white" alt="UI/UX"/>
+  <br><br>
   <a href="https://github.com/kuveee">
-    <img src="https://img.shields.io/badge/GitHub-kuveee-00D8FF?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a"/>
+    <img src="https://img.shields.io/badge/GitHub-Profile-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </td>
 <td align="center" width="20%">
-  <img src="https://avatars.githubusercontent.com/u/129470696?v=4" width="120" style="border-radius: 50%; border: 3px solid #627EEA;"/>
+  <img src="https://avatars.githubusercontent.com/u/129470696?v=4" width="100" style="border-radius: 50%; border: 3px solid #627EEA;"/>
   <br><br>
-  <h3>⛓️ NTK1100</h3>
-  <p><strong>Blockchain Engineer</strong></p>
-  <p>
-    <img src="https://skillicons.dev/icons?i=solidity,ethereum,nodejs,python" width="100"/>
-  </p>
-  <p><em>Smart Contracts • DeFi Protocols • Web3 Integration</em></p>
+  <img src="https://img.shields.io/badge/NTK1100-Blockchain_Developer-627EEA?style=for-the-badge&logo=ethereum&logoColor=white" alt="NTK1100"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/Solidity-Expert-363636?style=flat&logo=solidity&logoColor=white" alt="Solidity"/>
+  <img src="https://img.shields.io/badge/Smart_Contracts-Expert-627EEA?style=flat&logo=ethereum&logoColor=white" alt="Smart Contracts"/>
+  <br>
+  <img src="https://img.shields.io/badge/Web3-Developer-F16822?style=flat&logo=web3.js&logoColor=white" alt="Web3"/>
+  <br><br>
   <a href="https://github.com/NTK1100">
-    <img src="https://img.shields.io/badge/GitHub-NTK1100-627EEA?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a"/>
+    <img src="https://img.shields.io/badge/GitHub-Profile-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </td>
 <td align="center" width="20%">
-  <img src="https://avatars.githubusercontent.com/u/167009163?v=4" width="120" style="border-radius: 50%; border: 3px solid #68D391;"/>
+  <img src="https://avatars.githubusercontent.com/u/167009163?v=4" width="100" style="border-radius: 50%; border: 3px solid #47A248;"/>
   <br><br>
-  <h3>🚀 zh13u</h3>
-  <p><strong>Backend Specialist</strong></p>
-  <p>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,docker" width="100"/>
-  </p>
-  <p><em>Microservices • API Design • Database Architecture</em></p>
+  <img src="https://img.shields.io/badge/zh13u-Backend_Engineer-47A248?style=for-the-badge&logo=node.js&logoColor=white" alt="zh13u"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/Node.js-Expert-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-Expert-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <br>
+  <img src="https://img.shields.io/badge/APIs-Architect-FF6B35?style=flat&logo=postman&logoColor=white" alt="APIs"/>
+  <br><br>
   <a href="https://github.com/zh13u">
-    <img src="https://img.shields.io/badge/GitHub-zh13u-68D391?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a"/>
+    <img src="https://img.shields.io/badge/GitHub-Profile-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </td>
 <td align="center" width="20%">
-  <img src="https://avatars.githubusercontent.com/u/199244596?v=4" width="120" style="border-radius: 50%; border: 3px solid #F56565;"/>
+  <img src="https://avatars.githubusercontent.com/u/199244596?v=4" width="100" style="border-radius: 50%; border: 3px solid #9C27B0;"/>
   <br><br>
-  <h3>⚡ stepToBecomeGigachad</h3>
-  <p><strong>Blockchain Developer</strong></p>
-  <p>
-    <img src="https://skillicons.dev/icons?i=solidity,truffle,javascript,git" width="100"/>
-  </p>
-  <p><em>Smart Contracts • Testing • Deployment</em></p>
-  <a href="https://github.com/stepToBecomeGigachad">
-    <img src="https://img.shields.io/badge/GitHub-stepToBecomeGigachad-F56565?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a"/>
-  </a>
-</td>
-<td align="center" width="20%">
-  <img src="https://avatars.githubusercontent.com/u/167999420?v=4" width="120" style="border-radius: 50%; border: 3px solid #9F7AEA;"/>
+  <img src="https://img.shields.io/badge/stepToBecomeGigachad-Blockchain_Dev-9C27B0?style=for-the-badge&logo=ethereum&logoColor=white" alt="stepToBecomeGigachad"/>
   <br><br>
-  <h3>🔧 Crabs536</h3>
-  <p><strong>Backend Engineer</strong></p>
-  <p>
-    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,express,aws" width="100"/>
-  </p>
-  <p><em>API Development • Database Design • DevOps</em></p>
-  <a href="https://github.com/Crabs536">
-    <img src="https://img.shields.io/badge/GitHub-Crabs536-9F7AEA?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a"/>
-  </a>
-</td>
-</tr>
-</table>
-
-### 🎯 **TEAM EXPERTISE MATRIX**
-
-<div align="center">
-  <table>
-    <tr>
-      <th>🏷️ <strong>ROLE</strong></th>
-      <th>🎯 <strong>CORE RESPONSIBILITIES</strong></th>
-      <th>🛠️ <strong>TECH STACK</strong></th>
-      <th>📊 <strong>EXPERTISE LEVEL</strong></th>
-    </tr>
-    <tr>
-      <td><strong>🎨 Frontend Architect</strong></td>
-      <td>UI/UX Design, Component Library, Performance</td>
-      <td>React, Next.js, TypeScript, Tailwind</td>
-      <td><img src="https://progress-bar.dev/95/?title=Expert&color=00D8FF" /></td>
-    </tr>
-    <tr>
-      <td><strong>⛓️ Blockchain Engineer</strong></td>
-      <td>Smart Contracts, DeFi Integration, Security</td>
-      <td>Solidity, Ethereum, Truffle, Hardhat</td>
-      <td><img src="https://progress-bar.dev/92/?title=Expert&color=627EEA" /></td>
-    </tr>
-    <tr>
-      <td><strong>🚀 Backend Specialist</strong></td>
-      <td>Microservices, API Gateway, Database Design</td>
-      <td>Node.js, Express, MongoDB, Docker</td>
-      <td><img src="https://progress-bar.dev/88/?title=Advanced&color=68D391" /></td>
-    </tr>
-    <tr>
-      <td><strong>⚡ Blockchain Developer</strong></td>
-      <td>Smart Contract Testing, Deployment, Optimization</td>
-      <td>Solidity, JavaScript, Testing Frameworks</td>
-      <td><img src="https://progress-bar.dev/85/?title=Advanced&color=F56565" /></td>
-    </tr>
-    <tr>
-      <td><strong>🔧 Backend Engineer</strong></td>
-      <td>API Development, Infrastructure, DevOps</td>
-      <td>Node.js, Cloud Services, CI/CD</td>
-      <td><img src="https://progress-bar.dev/90/?title=Advanced&color=9F7AEA" /></td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🤝 **CONTRIBUTION GUIDELINES**
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=800&lines=
+  <img src="https://img.shields.io/badge/Solidity-Expert-363636?style=flat&logo=solidity&logoColor=white" alt="Solidity"/>
+  <img src="https://img.shields.io/badge/DeFi-Developer-627EEA?style=flat&logo=ethereum&logoColor=white" alt="DeFi"/>
+  <br>
+  <img src="https://img.shields.io/badge/Testing-Expert-FF6B35?style=flat&logo=jest&logoColor=white" alt="Testing"/>
